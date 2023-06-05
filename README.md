@@ -15,7 +15,7 @@ Desafio desenvolvido durante as aulas do módulo 1 do Stage 02 do curso Explorer
 
 
 <p align="center">
-  <img alt="Projeto Moveis costumizados" src="./images/preview.jpg" width="100%">
+  <img alt="Projeto Moveis costumizados" src="images/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
